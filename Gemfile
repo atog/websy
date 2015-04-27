@@ -1,0 +1,7 @@
+source 'http://rubygems.org'
+ruby '2.1.2'
+gem 'bundler'
+gem 'camping', '2.1.523'
+gem 'mab', '0.0.2'
+gem 'puma'
+gem 'foreman'

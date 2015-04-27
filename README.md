@@ -1,0 +1,1 @@
+Let's go Camping with static stuff.
